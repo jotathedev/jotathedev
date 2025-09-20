@@ -34,10 +34,10 @@ Olá! Sou o João Pedro, mas pode me chamar de Jotapê. Um desenvolvedor de 19 a
 
 ## 📊 Minhas Estatísticas no GitHub
   <a href="https://github.com/jotathedev/github-readme-stats">
-    <img height=200 align="center" alt="Estatísticas do GitHub de jotathedev" src="https://github-readme-stats.vercel.app/api?username=jotathedev&theme=transparent&show_icons=true&title_color=f79d37ff&text_color=f79d37ff&icon_color=00ACF0&ring_color=00ACF0" />
+    <img align="center" alt="Estatísticas do GitHub de jotathedev" src="https://github-readme-stats.vercel.app/api?username=jotathedev&theme=transparent&show_icons=true&title_color=f79d37ff&text_color=f79d37ff&icon_color=00ACF0&ring_color=00ACF0" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height=200 align="center" alt="Linguagens mais usadas" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jotathedev&title_color=f79d37ff&theme=transparent&layout=compact&card_width=400" />
+    <img align="center" alt="Linguagens mais usadas" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jotathedev&title_color=f79d37ff&theme=transparent&layout=compact&card_width=400" />
   </a>
 
 ![header](https://capsule-render.vercel.app/api?type=venom&height=300&color=00ACF0&text=System.out.println("Volte%20Sempre!");&reversal=false&textBg=false&fontColor=ffffff&animation=fadeIn&fontSize=50&section=header)
