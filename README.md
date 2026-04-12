@@ -3,13 +3,13 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=10&duration=12000&repeat=false&pause=1000&color=00ACF0&center=&vCenter=&width=435&lines=Me+encontre+em%3A)](https://git.io/typing-svg)  
 
 <a href="https://www.instagram.com/jotapeekkj/">
-  <img width="48" height="48" alt="image" src="https://github.com/user-attachments/assets/e594de76-0e9f-4965-9b66-e5735c8780c1">
+  <img width="48" height="48" alt="image" src="https://skillicons.dev/icons?i=instagram">
 </a>
 <a href="https://www.linkedin.com/in/jotapefaustt/">
-  <img width="48" height="48" alt="image" src="https://github.com/user-attachments/assets/638c0ae6-467f-400d-9dc3-5f18b4469520" />
+  <img width="48" height="48" alt="image" src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 <a href="mailto:jotapefaustino7@gmail.com?subject=Opa%2C%20Jo%C3%A3o!%20Vamos%20trocar%20uma%20ideia%3F">
-  <img width="48" height="48" alt="image" src="https://github.com/user-attachments/assets/82cfa6d7-2f1e-466f-962c-c620d3cf3d13" />
+  <img width="48" height="48" alt="image" src="https://skillicons.dev/icons?i=gmail" />
 </a>
 
 ## 👨‍💻 Sobre mim
@@ -21,16 +21,7 @@ Olá! Sou o João Pedro, mas pode me chamar de Jotapê. Um desenvolvedor de 19 a
 * 🎯 Buscando minha primeira oportunidade para atuar como Desenvolvedor Back-end.
 
 ## 🛠️ Tecnologias que usei e aprendi
-<p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="spring" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="typescript" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="45" height="45"/>
-</p>
+[![My Skills](https://skillicons.dev/icons?i=java,spring,js,ts,react,nestjs,prisma,postgres,postman,docker,git&theme=dark)](https://skillicons.dev)
 
 ## 📊 Minhas Estatísticas no GitHub
   <a href="https://github.com/jotathedev/github-readme-stats">
