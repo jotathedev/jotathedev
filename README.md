@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&height=300&color=F79D37FF&text=System.out.println("Olá%20Mundo!");&reversal=false&textBg=false&fontColor=ffffff&animation=fadeIn&desc=@jotathedev&fontSize=50)
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=10&pause=1000&color=F79D37&center=&vCenter=&width=435&lines=Dev+que+ama+jogos%2C+m%C3%BAsica%2C+animes+e...+Java)](https://git.io/typing-svg)  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=10&pause=1000&color=F79D37&center=&vCenter=&width=435&lines=Dev+que+ama+jogos%2C+m%C3%BAsica%2C+animes+e...+Codar)](https://git.io/typing-svg)  
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=10&duration=12000&repeat=false&pause=1000&color=00ACF0&center=&vCenter=&width=435&lines=Me+encontre+em%3A)](https://git.io/typing-svg)  
 
 <a href="https://www.instagram.com/jotapeekkj/">
