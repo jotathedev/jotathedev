@@ -16,9 +16,10 @@
 Olá! Sou o João Pedro, mas pode me chamar de Jotapê. Um desenvolvedor de 19 anos apaixonado por quebrar a cabeça com código.
 
 * 🎓 Cursando **Sistemas de Informação** no Centro Universitário 7 de Setembro (UNI7).
-* 🚀 Atualmente, estou mergulhando de cabeça no universo Back-end com foco total em **Java** e no ecossistema **Spring**.
+* 🚀 Atualmente, atuo como Desenvolvedor de Software Full Stack - Trainee, trabalhando com **NestJS (TypeScript)** no back-end e **React** no front-end.
+* 🔄 Com base sólida em Java + Spring Boot, venho expandindo minha atuação para stacks modernas baseadas em TypeScript, como NestJS.
 * :triangular_ruler: Eventualmente, dou uma olhada em conteúdos de Arquitetura e Engenharia de Software e entendo aspectos importantes e profundos que vão além do código.  
-* 🎯 Buscando minha primeira oportunidade para atuar como Desenvolvedor Back-end.
+* 🎯 Focado em evoluir como desenvolvedor e construir soluções cada vez mais sólidas.
 
 ## 🛠️ Tecnologias que usei e aprendi
 [![My Skills](https://skillicons.dev/icons?i=java,spring,js,ts,react,nestjs,prisma,postgres,postman,docker,git&theme=dark)](https://skillicons.dev)
